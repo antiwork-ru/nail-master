@@ -24,7 +24,7 @@ export default function Hero() {
                     initial={{ opacity: 0, y: 20 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.8 }}
-                    className="font-heading text-3xl font-bold tracking-tight text-milk sm:text-5xl md:text-6xl"
+                    className="font-heading text-3xl font-bold tracking-tight text-milk sm:text-5xl md:text-7xl"
                 >
                     Маникюр, который <br />
                     <span className="text-gold">подчеркнёт твою красоту</span>
