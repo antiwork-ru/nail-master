@@ -5,7 +5,7 @@ export default function Footer() {
                 <div className="grid gap-10 md:grid-cols-2">
                     <div>
                         <h3 className="font-heading text-2xl text-gold">Контакты</h3>
-                        <p className="mt-4">📍 г. Город, ул. Улица, д. 1</p>
+                        <p className="mt-4">📍 г. Петропавловск-Камчатский, ул., д.</p>
                         <p className="mt-1">🕒 Ежедневно с 10:00 до 21:00</p>
                         <p className="mt-1">📞 +7 (912) 345-67-89</p>
                         <div className="mt-4 flex gap-4">
