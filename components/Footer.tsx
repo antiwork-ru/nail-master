@@ -25,7 +25,7 @@ export default function Footer() {
                     </div>
                 </div>
                 <div className="mt-10 border-t border-white/20 pt-6 text-center text-sm text-white/50">
-                    © {new Date().getFullYear()} Имя Мастера. Все права защищены.
+                    © {new Date().getFullYear()} Анисимова Анастасия. Все права защищены.
                 </div>
             </div>
         </footer>
